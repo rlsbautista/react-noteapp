@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-noteapp/static/css/main.02f16f10.css",
+    "main.js": "/react-noteapp/static/js/main.20b593bb.js",
+    "index.html": "/react-noteapp/index.html",
+    "main.02f16f10.css.map": "/react-noteapp/static/css/main.02f16f10.css.map",
+    "main.20b593bb.js.map": "/react-noteapp/static/js/main.20b593bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f16f10.css",
+    "static/js/main.20b593bb.js"
+  ]
+}
